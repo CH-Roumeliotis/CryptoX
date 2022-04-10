@@ -4,6 +4,7 @@ pragma solidity ^0.8.0;
 
 import "hardhat/console.sol";
 
+///@notice this is a simple storage contract to add each transaction details to blockchain 
 contract Transactions {
     uint256 transactionCount;
 
