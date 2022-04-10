@@ -17,7 +17,7 @@ const Footer = () => (
     </div>
 
     <div className="flex justify-center items-center flex-col mt-5">
-      <p className="text-white text-sm text-center">Come join us and hear for the unexpected miracle</p>
+      <p className="text-white text-sm text-center">Cryptocurrency is a reality in CryptoX</p>
       <p className="text-white text-sm text-center font-medium mt-2">christosroumeliotis@ieee.com</p>
     </div>
 
